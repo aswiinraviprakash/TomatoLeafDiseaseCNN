@@ -1,0 +1,5 @@
+splitfolders==0.5.1
+torch==2.2.1+cu121
+torchvision==0.17.1+cu121
+nltk==3.8.1
+scikit_learn==1.2.2
