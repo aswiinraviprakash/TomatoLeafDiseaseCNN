@@ -13,6 +13,9 @@ Three datasets were utilized, each contributing to the diversity of training sce
 2. **[Dataset 2](https://www.kaggle.com/datasets/cookiefinder/tomato-disease-multiple-sources)**: Contains 11 classes totaling 14,658 images, with 6 relevant classes extracted.
 3. **[Dataset 3](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)**: From a larger dataset covering multiple leaf diseases, 10 classes comprising 18,000 images were selected.
 
+<img width="465" alt="Screenshot 2024-04-21 at 11 56 16 PM" src="https://github.com/aswiinraviprakash/COMP6721-GroupG/assets/47520723/6a434d0e-1032-4956-825e-a7ac5e42c475">
+   
+
 ## Models and Training
 Three CNN architectures were explored:
 - **ResNet18**
@@ -32,6 +35,9 @@ The main challenges encountered include:
 ## Methodology
 - Models were trained and validated using the above datasets with adjustments for class balance and image quality.
 - The performance of each model was evaluated, and the results were visualized using Grad-CAM techniques to understand model decision-making processes.
+
+## Grad-Cam
+<img width="581" alt="Screenshot 2024-04-21 at 11 56 54 PM" src="https://github.com/aswiinraviprakash/COMP6721-GroupG/assets/47520723/2bd0f145-b960-45a6-bdce-e45ed9029419">
 
 ## Requirements
 - Python 3.8+
