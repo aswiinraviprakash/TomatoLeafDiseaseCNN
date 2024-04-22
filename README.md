@@ -1,7 +1,3 @@
-Here's a structured and informative README for your Tomato Leaf Disease Classification project:
-
----
-
 # Tomato Leaf Disease Classification
 
 ## Introduction
@@ -49,4 +45,3 @@ Steps to Run the Program
 2. Import the datasets given into the content folder in Google Colab.
 3. Run all the cells of the program.
 4. Check the desired output.
-
